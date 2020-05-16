@@ -3,7 +3,7 @@ A game with Emoji style, created with SFML library.
 
 "EmojDigger" Game Project
 
-I and my partner Worte 16 classes (Cpp + Header files)
+Me and my partner Worte 16 classes (Cpp + Header files)
 
 The Classes:
 
