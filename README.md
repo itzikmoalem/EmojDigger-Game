@@ -3,6 +3,9 @@ A game with Emoji style, created with SFML library.
 
 "EmojDigger" Game Project
 
+<a href="https://ibb.co/9gf0xqY"><img src="https://i.ibb.co/2hLrzjK/Untitled-sdasd3.jpg" alt="Untitled-sdasd3" border="0"></a>
+
+
 Me and my partner Worte 16 classes (Cpp + Header files)
 
 The Program Classes:
@@ -25,4 +28,4 @@ The Program Classes:
 + Diamond
 + Consts (Header Only) - Manage consts.
 
-<a href="https://ibb.co/9gf0xqY"><img src="https://i.ibb.co/2hLrzjK/Untitled-sdasd3.jpg" alt="Untitled-sdasd3" border="0"></a>
+
