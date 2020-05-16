@@ -25,4 +25,4 @@ The Program Classes:
 + Diamond
 + Consts (Header Only) - Manage consts.
 
-![EmojDigger](<a href="https://ibb.co/9gf0xqY"><img src="https://i.ibb.co/2hLrzjK/Untitled-sdasd3.jpg" alt="Untitled-sdasd3" border="0"></a>)
+<a href="https://ibb.co/9gf0xqY"><img src="https://i.ibb.co/2hLrzjK/Untitled-sdasd3.jpg" alt="Untitled-sdasd3" border="0"></a>
