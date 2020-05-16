@@ -5,7 +5,7 @@ A game with Emoji style, created with SFML library.
 
 Me and my partner Worte 16 classes (Cpp + Header files)
 
-The Classes:
+The Program Classes:
 
 + Manager - This class aims to load all the resources required for the game, such as textures, audio files, and fonts.
 + Menu - This class loads the main menu and displays two options of "New Game" or "Exit Game".
@@ -24,3 +24,5 @@ The Classes:
 + Gift
 + Diamond
 + Consts (Header Only) - Manage consts.
+
+![EmojDigger](https://ibb.co/9gf0xqY)
